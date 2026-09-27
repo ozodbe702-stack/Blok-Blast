@@ -1,0 +1,6 @@
+{
+  "name": "Blok Blast",
+  "description": "Rang-barang javohir bloklar, qiziqarli bosqichlar, kombo portlashlar va kuchaytirgichlarga ega Blok Blast boshqotirma o'yini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Blok Blast</string>
+    <string name="hero_subtitle">Rang-barang javohir bloklar va ajoyib bosqichlar</string>
+    <string name="nav_home">Asosiy</string>
+    <string name="nav_levels">Bosqichlar</string>
+    <string name="nav_play">O\'yin</string>
+    <string name="nav_stats">Rekordlar</string>
+    <string name="play_classic">Klassik Cheksiz</string>
+    <string name="play_adventure">Sarguzasht Bosqichlari</string>
+    <string name="daily_challenge">Kunlik Sinov</string>
+    <string name="high_score">Rekord</string>
+    <string name="current_score">Ball</string>
+    <string name="combo_label">Kombo</string>
+    <string name="coins_label">Tangalar</string>
+    <string name="stars_label">Yulduzlar</string>
+    <string name="powerup_hammer">Bolg\'a</string>
+    <string name="powerup_bomb">Bomba</string>
+    <string name="powerup_reroll">Yangilash</string>
+    <string name="powerup_rotate">Burish</string>
+    <string name="level_complete">Bosqich Yakunlandi!</string>
+    <string name="game_over">Joy Qolmadi!</string>
+    <string name="next_level">Keyingi Bosqich</string>
+    <string name="retry_game">Qayta O\'ynash</string>
+    <string name="back_to_menu">Menyuga Qaytish</string>
+</resources>
